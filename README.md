@@ -28,7 +28,7 @@ How to run the "Houses API" locally:
 - Install npm - https://www.npmjs.com/get-npm
 - Run command: "npm install -g json-server", if you need any additional information you can visit
   this link https://github.com/typicode/json-server
-- Unzip the attachment file and copy provided db.json file locally
+- In resources find and copy provided db.json file locally
 - Go to the path where you copied the db.json file
 - Run command: "json-server --watch db.json"
   Now the API you need to test is up and running on the localhost:3000.
