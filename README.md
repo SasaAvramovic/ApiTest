@@ -1,4 +1,4 @@
-# **RealStaq test project**
+# **Api test project**
 
 ## **How to run tests**
 - by Junit runner - just run class CucumberRunner in runners package (src/test/java/api/runners)
